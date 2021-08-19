@@ -1,6 +1,6 @@
 {
     "name": "pxt-project-display",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "Base code for 128x64 OLED Display",
     "license": "MIT",
     "dependencies": {
